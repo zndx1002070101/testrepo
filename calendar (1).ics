@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+URL:https://www.wsjjobssummit.com/agenda
+DTSTART:20210304T170000Z
+DTEND:20210304T214500Z
+SUMMARY:WSJ Jobs Summit: Succeed in the Search 2021
+DESCRIPTION:Please select your ticket type below. \nIf you are located in the United States, select from the first list. \nIf you are located Internationally, select from the second list. \nhttps://www.wsjjobssummit.com/agenda
+LOCATION:
+END:VEVENT
+END:VCALENDAR
